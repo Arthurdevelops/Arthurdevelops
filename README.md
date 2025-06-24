@@ -1,7 +1,9 @@
 ## Hi, I'm Arthur ☕
 
 🚀 Passionnate about learning everyday and build fun websites
+
 🧠 Graduated Engineer from ESEO with master degree in Software Engineering
+
 🧑‍💼 Currently working as a FullStack Engineer at onepoint, France
 
 ## 🌐 Socials:
